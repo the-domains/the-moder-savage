@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Moder Savage]]></title>
+        <description><![CDATA[The Moder Savage]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Dec 2015 19:45:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Powell Street Line]]></title>
+            <description><![CDATA[<article><h1>The Powell Street Line</h1><p>Every night Phil yelled answers at Jeopardy. He waited on the contestants to answer and, before they could, he yelled the answers again. He did not stay tuned for Final Jeopardy because he already knew the answer and didn’t care who won. Every night he imagined one of the questions being “Do you really want to live on without her Phil?” “What’s the point anymore?” “Who will look after her when you are gone Phil? ”Those were the questions he didn’t have answers to. Yet, every night he answered them in his own ways. Tonight was an election night so Jeopardy wasn’t on. This meant Phil had only those questions to ask himself. “Fucking Alex Trebek” he mumbled to himself. </p></article>]]></description>
+            <link>undefinedthe-powell-street-line/index.html</link>
+            <guid isPermaLink="false">71b1e31c-a2fb-4728-bc11-8f7fc4c09031</guid>
+            <pubDate>Mon, 21 Dec 2015 19:45:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
