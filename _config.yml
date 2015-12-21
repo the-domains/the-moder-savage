@@ -1,0 +1,28 @@
+name: The Moder Savage
+favicon: null
+layout_spectrum: 0.6213134350255132
+typography_spectrum: 0.2619825778529048
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.29996410268358886
+  lightness: 0.19234209787100554
+  saturation: 0.6583073979709297
+  rhythmicContrast: 0.07227754406630993
+purpose: []
